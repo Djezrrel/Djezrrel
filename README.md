@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Djezrrel 😁
+## Bem-vindo ao perfil do Djezrrel 😁
 
  <div>
    <a href="https://github.com/Djezrrel">
