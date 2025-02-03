@@ -1,17 +1,15 @@
 <br clear="both">
 
-<h3 align="left">Hi👋<br>My name is David Jezrrel and I'm a software engineering student. 🖥️🧑🏾‍💻<br> <br>I live in Brazil, and at the moment I am focused and working in the area of quality and software testing</h3>
+<h5 align="left">Hi👋<br>My name is David Jezrrel and I'm a software engineering student. 🖥️🧑🏾‍💻<br>I live in Brazil, and at the moment I am focused and working in the area of quality and software testing</h5>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Djezrrel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true" height="140" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Djezrrel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="140" alt="stats graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW13Z2gzY2FrajV5NnIxZHplbnkzaWV2M3BrMTNuNWI4b21hZnExaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQbVzXQQbGO7C/giphy.gif"  />
 
 ###
 
