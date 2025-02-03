@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h5 align="left">Hi👋<br>My name is David Jezrrel and I'm a software engineering student. 🖥️🧑🏾‍💻<br>I live in Brazil, and at the moment I am focused and working in the area of quality and software testing</h5>
+<img src="https://raw.githubusercontent.com/Djezrrel/Djezrrel/output/snake.svg" alt="Snake animation" />
+
+<h5 align="center">Hi👋<br>My name is David Jezrrel and I'm a software engineering student. 🖥️👨‍💻 <br>I live in Brazil, and at the moment I am focused and working in the area of quality and software testing</h5>
 
 ###
 
@@ -43,6 +45,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Djezrrel/Djezrrel/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img  height= "300" align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV3bnYwMnprMWVodzNpOGR3dTNia2swc3J1aXZleWtrczcyNzU5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" alt="Imagem">
+</p>
 
 ###
