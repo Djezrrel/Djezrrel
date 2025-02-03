@@ -35,7 +35,7 @@
   <a href="discordapp.com/users/627304658502680589" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="jezrreld@gmail.com" target="_blank">
+  <a href="mailto:jezrreld@gmail.com?subject=jezrreld@gmail.com&body=jezrreld@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/david-j-66174b176/" target="_blank">
