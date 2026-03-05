@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Djezrrel/Djezrrel/output/snake.svg" alt="Snake animation" />
 
-<h5 align="center">Hi👋<br>My name is David Jezrrel and I'm a software engineering student. 🖥️👨‍💻 <br>I live in Brazil, and at the moment I am focused and working in the area of quality and software testing</h5>
+<h5 align="center">Hi👋<br> Sou o Jezrrel. 🖥️👨‍💻 <br> Faço de Tudo e mais um pouco, mas gosto mesmo e de TESTAR</h5>
 
 ###
 
